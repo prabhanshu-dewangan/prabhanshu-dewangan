@@ -13,7 +13,7 @@ I am passionate about Artificial Intelligence, Machine Learning, and Full Stack 
 
 ---
 
-### 📅 Current Focus (Starting July 27)
+### 📅 Current Focus
 * 🎯 Master Advanced Data Manipulation (Pandas/NumPy)
 * 🤖 Deep dive into Classical Machine Learning Algorithms
 * 📈 Building end-to-end AI/ML Portfolio Projects
