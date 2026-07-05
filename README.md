@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Prabhanshu Dewangan! 👋
 
-<!--
-**prabhanshu-dewangan/prabhanshu-dewangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 B.Tech Student in Electronics and Computer Science 
+I am passionate about Artificial Intelligence, Machine Learning, and Full Stack Web Development. Currently building data-driven solutions and deep learning models.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+* **Languages:** Python, C++
+* **Data Science & ML:** Pandas, NumPy, Scikit-Learn, PyTorch
+* **Web Development:** HTML, CSS, JavaScript, Full-Stack Basics
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📅 Current Focus (Starting July 27)
+* 🎯 Master Advanced Data Manipulation (Pandas/NumPy)
+* 🤖 Deep dive into Classical Machine Learning Algorithms
+* 📈 Building end-to-end AI/ML Portfolio Projects
+
+---
+
+📫 **How to reach me:** prabhanshu3686@gmail.com
